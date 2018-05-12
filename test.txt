@@ -1,5 +1,5 @@
-echo 'Hello, Git!
+echo 'Hello, Git!"
 
-echo 'Hello, world!
+echo 'Hello, world!"
 
 echo 'Hello, homeblew!'
